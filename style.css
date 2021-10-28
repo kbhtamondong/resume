@@ -1,0 +1,22 @@
+p {
+  background-color: orange;
+  color: white
+}
+div {
+  background-color: black;
+  color: white;
+}
+p {
+  font-style: italic;
+}
+h1 {
+  outline-style: dotted;
+  color: red
+}
+p {
+  font-size: large;
+}
+h2 {
+  border: 3px solid black;
+  outline: 2px dashed blue
+}
